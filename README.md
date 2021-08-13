@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @denn15law
+- 👀 I’m interested in ...
+      - Databases
+      - React.js
+      - Django
+- 🌱 I’m currently learning ...
+      - Javascript
+- 📫 How to reach me ...
+      - email: denn15_law@live.ca
+      - insta: denn15law
+
