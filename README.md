@@ -7,5 +7,5 @@
       - Javascript
 - 📫 How to reach me ...
       - email: denn15_law@live.ca
-      - insta: denn15law
+      - phone: 647-983-3463
 
